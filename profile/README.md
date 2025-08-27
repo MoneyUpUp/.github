@@ -135,7 +135,7 @@
 | :----: | :---------: | :---------------------------------------: | :----: |
 | 강태욱 | FE & Design | [Git](https://github.com/sunshinemoongit) |        |
 | 이지언 | FE & Design |    [Git](https://github.com/leejieok)     |        |
-|        |
+
 
 ## 문서 자료
 
