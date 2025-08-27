@@ -69,7 +69,6 @@
 ---
 
 ## 프로젝트 소개
-
 <p align="center">
   <a href="https://youtu.be/aCVb2RHlxVo">
     <img src="http://img.youtube.com/vi/aCVb2RHlxVo/0.jpg" width="600"/>
