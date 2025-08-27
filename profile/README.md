@@ -131,10 +131,10 @@
 
 ## 팀원 소개
 
-|  이름  |    역할     |                  Contact                  | 블로그 |
-| :----: | :---------: | :---------------------------------------: | :----: |
-| 강태욱 | FE & Design | [Git](https://github.com/sunshinemoongit) |        |
-| 이지언 | FE & Design |    [Git](https://github.com/leejieok)     |        |
+|  이름  |    역할     |                  Contact                  | 
+| :----: | :---------: | :---------------------------------------: | 
+| 강태욱 | FE & Design | [Git](https://github.com/sunshinemoongit) | 
+| 이지언 | FE & Design |    [Git](https://github.com/leejieok)     | 
 
 
 ## 문서 자료
