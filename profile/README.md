@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/mainmock.png"/>
-</div>
+
 
 <br/>
 
