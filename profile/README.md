@@ -116,18 +116,30 @@
 ## 웹페이지
 
 ### 회원가입
-
-- 이메일 OTP인증을 통한 회원가입
-  ![회원가입](https://github.com/Reciplay/resources/blob/main/SignUp.gif?raw=true)
+![회원가입](https://github.com/MoneyUpUp/resource/blob/main/signup.gif?raw=true)
 
 ### 로그인
+![로그인](https://github.com/MoneyUpUp/resource/blob/main/login.gif?raw=true)
 
-![로그인](https://github.com/Reciplay/resources/blob/main/SignIn.gif?raw=true)
+### 예적금 상품 조회
+![예적금 상품 조회](https://github.com/MoneyUpUp/resource/blob/main/products.gif?raw=true)
 
-### 소셜 로그인
+### 현물 상품 조회
+![현물 상품 조회](https://github.com/MoneyUpUp/resource/blob/main/spotasset.gif?raw=true)
 
-- 네이버, 카카오, 구글 회원가입 및 로그인 지원
-  ![소셜 로그인](https://github.com/Reciplay/resources/blob/main/SNS.gif?raw=true)
+### 은행 검색 지도
+![은행 검색 지도](https://github.com/MoneyUpUp/resource/blob/main/map.gif?raw=true)
+
+### 영상 검색
+![영상 검색](https://github.com/MoneyUpUp/resource/blob/main/youtubeSearch.gif?raw=true)
+
+### 마이 페이지
+![마이 페이지](https://github.com/MoneyUpUp/resource/blob/main/myPage.gif?raw=true)
+
+### 챗봇
+![챗봇](https://github.com/MoneyUpUp/resource/blob/main/chatbot.gif?raw=true)
+
+---
 
 ## 팀원 소개
 
@@ -137,10 +149,3 @@
 | 이지언 | FE  |    [Git](https://github.com/leejieok)     | 
 
 
-## 문서 자료
-
-- [포팅 메뉴얼](https://github.com/Reciplay/exec/blob/main/README.md)
-- [발표 자료](https://reciplay.my.canva.site/)
-- [API 가이드 라인](https://github.com/Reciplay/.github/blob/main/API_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8.pdf)
-
----
