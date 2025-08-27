@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://github.com/MoneyUpUp/resource/blob/main/mockup.png"/>
+</div>
 
 <br/>
 
